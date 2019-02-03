@@ -15,7 +15,7 @@ class CLI
     def menu
 
         puts ""
-        puts "Please select an App to view its details:"
+        puts "Please enter the number of the app to view its details or 'exit' to end the program:"
 
         input = gets.chomp
 
